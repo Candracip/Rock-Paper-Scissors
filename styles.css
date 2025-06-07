@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+button{
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 10px;
+}
+button img{
+    width: 100px;
+    border-radius: 10px;
+}
+
+#resetBtn{
+    width: 100px;
+    height: 50px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.judul{
+    font-size: large;
+    font-weight: bolder;
+    word-spacing: 5px;
+}
